@@ -1,5 +1,5 @@
 # Curso-Alhambra-UGR
-La Alhambra: Historia, arte y patrimonio (3ª ed.)
+La Alhambra: Historia, arte y patrimonio (3ª ed.) Curso virtual UGR
 
 ### Índice de contenidos:
  - Módulo 1: [Introducción a la Alhambra](https://github.com/odeclasonarres/Curso-Alhambra-UGR/tree/master/M%C3%B3dulo1)
